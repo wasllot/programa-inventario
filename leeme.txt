@@ -1,0 +1,6 @@
+Importante: 
+1.- Activar la extesión GD en PHP:INI para los reportes PDF.
+2.- Correo: prueba@gmail.com
+3.- Clave: admin
+4.- Es muy importante limpiar tu localStorage si anteriormente agregaste otros productos al carrito.
+
